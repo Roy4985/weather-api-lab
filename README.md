@@ -28,4 +28,4 @@ A simple weather dashboard that shows the current weather for any city using the
 
 ## Screenshot
 
-![Screenshot](screenshot.png)
+![Screenshot](image.png)
